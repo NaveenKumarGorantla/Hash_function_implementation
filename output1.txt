@@ -1,0 +1,80 @@
+adding Emil
+adding Wu
+adding Kole
+removing Kole
+adding Sanford
+adding Arnas
+removing Emil
+removing Sanford
+adding Yates
+adding Enrico
+adding Ballard
+adding Shanai
+adding Rowe
+adding Jamelia
+adding Paul
+removing Paul
+adding Aine
+adding Dunne
+adding Alistair
+adding Sherman
+adding Lillian
+adding Yang
+adding Alistair
+element to be added already existent: Alistair
+adding Shyla
+adding Mcmahon
+adding Damon
+adding Nolan
+adding Joshua
+removing Dunne
+adding Swan
+adding Yahya
+adding Church
+adding Eliott
+adding Olson
+adding Lucien
+adding Prosser
+removing Lucien
+adding Elsie
+adding Hibbert
+adding Adriana
+adding Avalos
+adding Shakil
+adding Serrano
+adding Kajetan
+adding Ho
+removing Kaden
+element to be removed not found: Kaden
+adding Minahil
+adding Kidd
+removing Kidd
+removing Adi
+element to be removed not found: Adi
+0: Arnas => Aine => Alistair => Adriana => Avalos
+1: Ballard
+2: Church
+3: Damon
+4: Enrico => Eliott => Elsie
+5: 
+6: 
+7: Hibbert => Ho
+8: 
+9: Jamelia => Joshua
+10: Kajetan
+11: Lillian
+12: Mcmahon => Minahil
+13: Nolan
+14: Olson
+15: Prosser
+16: 
+17: Rowe
+18: Shanai => Sherman => Shyla => Swan => Shakil => Serrano
+19: 
+20: 
+21: 
+22: Wu
+23: 
+24: Yates => Yang => Yahya
+
+time taken: 0.000554 seconds 
